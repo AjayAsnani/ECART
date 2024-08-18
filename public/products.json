@@ -1,0 +1,218 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Earbuds",
+    "image": "/p11.png",
+    "price": 1000,
+    "description": "High-quality wireless earbuds with noise-canceling technology.",
+    "category": "Audio",
+    "stock": 50
+  },
+  {
+    "id": 2,
+    "name": "Smartphone Stand",
+    "image": "/p12.png",
+    "price": 249,
+    "description": "Adjustable smartphone stand, perfect for hands-free viewing.",
+    "category": "Accessories",
+    "stock": 100
+  },
+  {
+    "id": 3,
+    "name": "Bluetooth Speaker",
+    "image": "/p13.png",
+    "price": 500,
+    "description": "Portable Bluetooth speaker with deep bass and 10-hour battery life.",
+    "category": "Audio",
+    "stock": 30
+  },
+  {
+    "id": 4,
+    "name": "Mechanical Keyboard",
+    "image": "/p14.png",
+    "price": 1300,
+    "description": "Tactile mechanical keyboard with customizable RGB lighting.",
+    "category": "Accessories",
+    "stock": 60
+  },
+  {
+    "id": 5,
+    "name": "Smart Watch",
+    "image": "/p15.png",
+    "price": 1900,
+    "description": "Stylish smart watch with fitness tracking and mobile notifications.",
+    "category": "Wearables",
+    "stock": 40
+  },
+  {
+    "id": 6,
+    "name": "USB-C Hub",
+    "image": "/p16.png",
+    "price": 300,
+    "description": "Multi-port USB-C hub with HDMI, USB 3.0, and SD card reader.",
+    "category": "Accessories",
+    "stock": 80
+  },
+  {
+    "id": 7,
+    "name": "Wireless Mouse",
+    "image": "/mouse.jpg",
+    "price": 700,
+    "description": "Ergonomic wireless mouse with adjustable DPI and long battery life.",
+    "category": "Accessories",
+    "stock": 120
+  },
+  {
+    "id": 8,
+    "name": "4K Monitor",
+    "image": "/p18.png",
+    "price": 14999,
+    "description": "Ultra HD 4K monitor with vibrant colors and high refresh rate.",
+    "category": "Electronics",
+    "stock": 20
+  },
+  {
+    "id": 9,
+    "name": "Laptop Stand",
+    "image": "/laps.jpg",
+    "price": 299,
+    "description": "Support for Notebook NOTE BASE 10 to 17 inches Aluminum Foldable Height Adjustable.",
+    "category": "Accessories",
+    "stock": 120
+  },
+  {
+    "id": 10,
+    "name": "Refrigerator",
+    "image": "/fridge.png",
+    "price": 24999,
+    "description": "Ultra HD 4K monitor with vibrant colors and high refresh rate.",
+    "category": "Electronics",
+    "stock": 20
+  },
+  {
+    "id": 11,
+    "name": "Washing Machine",
+    "image": "/wash.jpg",
+    "price": 18999,
+    "description": "Ultra HD 4K monitor with vibrant colors and high refresh rate.",
+    "category": "Electronics",
+    "stock": 20
+  },
+  {
+    "id": 12,
+    "name": "Microwave",
+    "image": "/micro.jpg",
+    "price": 8999,
+    "description": "Ultra HD 4K monitor with vibrant colors and high refresh rate.",
+    "category": "Electronics",
+    "stock": 20
+  },
+  {
+    "id": 13,
+    "name": "HP Laptop",
+    "image": "/lap.jpg",
+    "price": 39999,
+    "description": "HP 15.6 Laptop - Intel Pentium N200 8GB RAM 256GB SSD.",
+    "category": "Electronics",
+    "stock": 20
+  },
+  {
+    "id": 14,
+    "name": "Mouse Pad",
+    "image": "/mpad.jpg",
+    "price": 100,
+    "description": "Black and White Wavy Pattern Mousepad | Line Mousepad | Gaming Mousepad",
+    "category": "Accessories",
+    "stock": 120
+  },
+  {
+    "id": 15,
+    "name": "Wireless Headphne",
+    "image": "/head.jpg",
+    "price": 2499,
+    "description": "Active Noise Cancelling, Bluetooth, Wireless Headphones with Microphone",
+    "category": "Audio",
+    "stock": 50
+  },
+  {
+    "id": 16,
+    "name": "Amazon Echo",
+    "image": "/alexa.jpg",
+    "price": 4999,
+    "description": "Popular smart speaker. TECHBOOK has compiled the useful commands & questions for Alexa",
+    "category": "Audio",
+    "stock": 50
+  },
+  {
+    "id": 17,
+    "name": "Earphone",
+    "image": "/ear.jpg",
+    "price": 49,
+    "description": "boAt Bassheads 162 in Ear Wired Earphones with Mic(Active Black)",
+    "category": "Audio",
+    "stock": 50
+  },
+  {
+    "id": 18,
+    "name": "Podcast Microphone",
+    "image": "/mic.jpg",
+    "price": 6999,
+    "description": "FIFINE USB Podcast Microphone for Recording Streaming, Gaming for PC",
+    "category": "Audio",
+    "stock": 50
+  },
+  {
+    "id": 19,
+    "name": "Samsung S24 ULTRA",
+    "image": "/phone.jpg",
+    "price": 99999,
+    "description": "SAMSUNG Galaxy S24 Ultra Cell Phone, 256GB, 200MP, 100x Zoom",
+    "category": "Electronics",
+    "stock": 20
+  },
+  {
+    "id": 20,
+    "name": "Watch",
+    "image": "/watch.jpg",
+    "price": 1999,
+    "description": "AX Armani Exchange Analog Bracelet Watch & Leather Strap Set",
+    "category": "Wearables",
+    "stock": 40
+  },
+  {
+    "id": 21,
+    "name": "Bracelet",
+    "image": "/brace.jpg",
+    "price": 800,
+    "description": "Crater Design Bump Bracelet Fashion for both men and women",
+    "category": "Wearables",
+    "stock": 40
+  },
+  {
+    "id": 22,
+    "name": "Fitness Tracker",
+    "image": "/fit.jpg",
+    "price": 3999,
+    "description": "WHOOP 4.0 Health and Fitness Tracker with 1-Year Membership",
+    "category": "Wearables",
+    "stock": 40
+  },
+  {
+    "id": 23,
+    "name": "VR BOX",
+    "image": "/vr.jpg",
+    "price": 1099,
+    "description": "Virtual Reality Glasses for Games and Videos with Bluetooth Controller VR Box",
+    "category": "Wearables",
+    "stock": 40
+  },
+  {
+    "id": 24,
+    "name": "Wireless Microphone",
+    "image": "/mic2.jpg",
+    "price": 1299,
+    "description": " DJI MIC Wireless Microphone Portable Protective Box Storage Bag",
+    "category": "Wearables",
+    "stock": 40
+  }
+]
