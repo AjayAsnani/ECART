@@ -16,15 +16,15 @@ const CartItem = ({ product, removeFromCart }) => {
   };
 
   return (
-    <div className="border rounded-lg shadow-lg p-4 flex justify-between items-center flex-wrap">
-      <div className="flex items-center">
+    <div className="border rounded-lg shadow-lg p-4 flex items-center space-x-4">
+      <div className="flex items-center flex-grow">
         <img
           src={product.image}
           alt={product.name}
           className="w-20 h-20 object-cover rounded mr-4"
         />
-        <div>
-          <h3 className="text-lg font-semibold">{product.name}</h3>
+        <div className="flex-grow">
+          <h3 className="text-lg font-semibold truncate">{product.name}</h3>
           <p className="text-gray-600 font-bold">
             {new Intl.NumberFormat("en-US", {
               style: "currency",
@@ -52,7 +52,7 @@ const CartItem = ({ product, removeFromCart }) => {
       </div>
 
       <button
-        className="bg-red-500 text-white py-2 px-4 rounded hover:bg-red-600"
+        className="bg-red-500 text-white py-2 px-4 rounded hover:bg-red-600 flex-shrink-0"
         onClick={() => removeFromCart(product.id)}
       >
         <FaTrash />
