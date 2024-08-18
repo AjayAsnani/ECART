@@ -27,5 +27,4 @@ Run the development server
     npm run dev
 ```
     
-Running the Project
 After running the development server, the project should be accessible in your localhost
